@@ -3,7 +3,7 @@ package uk.co.placona.helloWorld;
 public class HelloWorld {
 
 	public String sayHello() {
-		return "Hello Worldn1";
+		return "Hello World";
 	}
 
 }
